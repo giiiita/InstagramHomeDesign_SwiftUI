@@ -8,4 +8,5 @@ Make Instagram home design with SwiftUI
 # Xcode & OS version
 
 Xcode: Version 11.0 beta 6 (11M392r)
+
 OS: 10.15 Beta（19A546d）
